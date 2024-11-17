@@ -1,0 +1,19 @@
+{
+  "name": "library_API",
+  "version": "1.0.0",
+  "description": "REST API for a library system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devKaos117/library.git"
+  },
+  "author": "Gustavo Aragão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devKaos117/library/issues"
+  },
+  "homepage": "https://github.com/devKaos117/library#readme"
+}
