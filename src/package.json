@@ -2,7 +2,7 @@
   "name": "library_API",
   "version": "1.0.0",
   "description": "REST API for a library system",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devKaos117/library/issues"
   },
-  "homepage": "https://github.com/devKaos117/library#readme"
+  "homepage": "https://github.com/devKaos117/library#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }

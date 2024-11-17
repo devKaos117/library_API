@@ -3,7 +3,7 @@
 ## Índice
 
 -   [Sobre](#sobre)
--   [Autenticação e Segurança](#auth)
+<!---   [Autenticação e Segurança](#auth)-->
 -   [CRUD URI's](#URIs)
 -   [Descrição Técnica](#descrica_tecnica)
     -   [Tecnologias usadas](#descrica_tecnica-techs)
@@ -16,13 +16,13 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
 ---
-
+<!--
 ## Autenticação e Segurança <a name = "auth"></a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
 ---
-
+-->
 ## CRUD URI's <a name = "URIs"></a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
@@ -40,10 +40,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 #### Componentes da Aplicação
 -   <span style="vertical-align: middle;" ><sup>MariaDB</sup> ![v15.1](https://img.shields.io/badge/version-15.1-informational)</span>
 -   <span style="vertical-align: middle;" ><sup>Node.js</sup> ![v23.2](https://img.shields.io/badge/version-23.2-informational)</span>
--   -   <span style="vertical-align: middle;" ><sup>express</sup> ![v0.0](https://img.shields.io/badge/version-0.0.0-informational)</span>
+-   -   <span style="vertical-align: middle;" ><sup>express</sup> ![v4.21.1](https://img.shields.io/badge/version-4.21.1-informational)</span>
 -   -   <span style="vertical-align: middle;" ><sup>dolor sit amet</sup> ![v0.0](https://img.shields.io/badge/version-0.0.0-informational)</span>
 
 ### Diagramas <a name = "descrica_tecnica-diagramas"></a>
-- [Diagrama Entidade Relacionamento do DB](https://github.com/devKaos117/library/documentation/db_der.pdf)
-- [Diagrama de Classes da API](https://github.com/devKaos117/library/documentation/api_dc.pdf)
-- [Diagrama de Casos de Uso da API](https://github.com/devKaos117/library/documentation/api_dcu.pdf)
+- [Diagrama Entidade Relacionamento](https://github.com/devKaos117/library/documentation/api_der.pdf)
+- [Diagrama de Classes](https://github.com/devKaos117/library/documentation/api_dc.pdf)
+- [Diagrama de Casos de Uso](https://github.com/devKaos117/library/documentation/api_dcu.pdf)
