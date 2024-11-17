@@ -44,6 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 -   -   <span style="vertical-align: middle;" ><sup>dolor sit amet</sup> ![v0.0](https://img.shields.io/badge/version-0.0.0-informational)</span>
 
 ### Diagramas <a name = "descrica_tecnica-diagramas"></a>
-- [Diagrama Entidade Relacionamento](https://github.com/devKaos117/library/documentation/api_der.pdf)
-- [Diagrama de Classes](https://github.com/devKaos117/library/documentation/api_dc.pdf)
-- [Diagrama de Casos de Uso](https://github.com/devKaos117/library/documentation/api_dcu.pdf)
+- [Diagrama Entidade Relacionamento](https://github.com/devKaos117/library_API/blob/main/documentation/api_der.pdf)
+- [Diagrama de Classes](https://github.com/devKaos117/library_API/blob/main/documentation/api_dc.pdf)
+- [Diagrama de Casos de Uso](https://github.com/devKaos117/library_API/blob/main/documentation/api_dcu.pdf)
