@@ -35,20 +35,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 ### Tecnologias Aplicadas <a name = "descrica_tecnica-techs"></a>
 
 #### Ambiente de Desenvolvimento
-&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v40-%23ffffff?style=flat&logo=fedora&logoColor=%2351A2DA&logoSize=auto&label=Fedora&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.fedoraproject.org)
+&emsp;&emsp;<a href="https://www.fedoraproject.org" target="_blank">![Static Badge](https://img.shields.io/badge/v40-%23ffffff?style=flat&logo=fedora&logoColor=%2351A2DA&logoSize=auto&label=Fedora&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.fedoraproject.org)</a>
 <br>
-&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v5.9-%23ffffff?style=flat&logo=zsh&logoColor=%23F15A24&logoSize=auto&label=zsh&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.zsh.org)
+&emsp;&emsp;<a href="https://www.zsh.org" target="_blank">![Static Badge](https://img.shields.io/badge/v5.9-%23ffffff?style=flat&logo=zsh&logoColor=%23F15A24&logoSize=auto&label=zsh&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.zsh.org)</a>
 <br>
-&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v1.95.3-%23ffffff?style=flat&logo=codecrafters&logoColor=%230065A9&logoSize=auto&label=VS%20Code&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fcode.visualstudio.com)
+&emsp;&emsp;<a href="https://code.visualstudio.com" target="_blank">![Static Badge](https://img.shields.io/badge/v1.95.3-%23ffffff?style=flat&logo=codecrafters&logoColor=%230065A9&logoSize=auto&label=VS%20Code&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fcode.visualstudio.com)</a>
 
 #### Componentes da Aplicação
-&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v15.1-%23ffffff?style=flat&logo=mariadb&logoColor=%23008595&logoSize=auto&label=Maria%20DB&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.mariadb.org)
+&emsp;&emsp;<a href="https://www.mariadb.org" target="_blank">![Static Badge](https://img.shields.io/badge/v15.1-%23ffffff?style=flat&logo=mariadb&logoColor=%23008595&logoSize=auto&label=Maria%20DB&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.mariadb.org)</a>
 <br>
-&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v23.2-%23ffffff?style=flat&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&label=Node.js&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.nodejs.org)
+&emsp;&emsp;<a href="https://www.nodejs.org" target="_blank">![Static Badge](https://img.shields.io/badge/v23.2-%23ffffff?style=flat&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&label=Node.js&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.nodejs.org)</a>
 <br>
-&emsp;&emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v4.22.1-%23ffffff?style=flat&label=express&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fexpress)
+&emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/express" target="_blank">![Static Badge](https://img.shields.io/badge/v4.22.1-%23ffffff?style=flat&label=express&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fexpress)</a>
 <br>
-&emsp;&emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/v4.22.1-%23ffffff?style=flat&label=module&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2FMODULE)
+&emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/MODULE" target="_blank">![Static Badge](https://img.shields.io/badge/v4.22.1-%23ffffff?style=flat&label=module&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2FMODULE)</a>
 
 ### Metodologias e Design de Projeto <a name = "descricao_tecnica-design"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
