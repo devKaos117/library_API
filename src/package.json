@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/devKaos117/library#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mariadb": "^3.4.0"
   }
 }

@@ -1,5 +1,5 @@
 # library API ![v1](https://img.shields.io/badge/version-1-informational)
-
+<a href="https://www.github.com/devKaos117" target="_blank">![Static Badge](https://img.shields.io/badge/License-%23FFFFFF?style=flat&label=MIT&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)</a>
 ## Índice
 
 -   [Sobre](#sobre)
@@ -48,7 +48,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 <br>
 &emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/express" target="_blank">![Static Badge](https://img.shields.io/badge/v4.22.1-%23ffffff?style=flat&label=express&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fexpress)</a>
 <br>
-&emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/MODULE" target="_blank">![Static Badge](https://img.shields.io/badge/v4.22.1-%23ffffff?style=flat&label=module&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2FMODULE)</a>
+&emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/mariadb" target="_blank">![Static Badge](https://img.shields.io/badge/v3.4.0-%23ffffff?style=flat&label=mariadb&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmariadb)</a>
+<br>
+&emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/cors" target="_blank">![Static Badge](https://img.shields.io/badge/v2.8.5-%23ffffff?style=flat&label=cors&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fcors)</a>
 
 ### Metodologias e Design de Projeto <a name = "descricao_tecnica-design"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
