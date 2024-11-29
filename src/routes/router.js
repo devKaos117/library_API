@@ -6,6 +6,7 @@ const router = require('express').Router();
 /*
 *           Routes
 */
+//      Authentication
 //      Database CRUD routers
 const CRUD_c = require('./CRUD/create');
 const CRUD_r = require('./CRUD/read');

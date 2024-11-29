@@ -14,6 +14,7 @@ router.post('/', (req,res) => {
     db.pool.query("DESCRIBE Livros;").then((rows) => {
         res.status(200).json(utils.returnData(req, rows));
     });
+    db.pool.end();
 });
 /*
 *           Exporting routes
