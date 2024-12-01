@@ -1,4 +1,4 @@
-# library API ![v1](https://img.shields.io/badge/version-1-informational)
+# library API ![v0.1](https://img.shields.io/badge/version-0.1-informational)
 <a href="https://www.github.com/devKaos117" target="_blank">![Static Badge](https://img.shields.io/badge/License-%23FFFFFF?style=flat&label=MIT&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)</a>
 ## Índice
 
@@ -9,6 +9,7 @@
 -   [Descrição Técnica](#descrica_tecnica)
     -   [Tecnologias Aplicadas](#descrica_tecnica-techs)
     -   [Metodologias e Design de Projeto](#descricao_tecnica-design)
+    -   [Testes da Aplicação](#descricao_tecnica-tests)
     -   [Autenticação e Segurança](#descricao_tecnica-auth)
     -   [Diagramas](#descrica_tecnica-diagramas)
 
@@ -17,7 +18,7 @@
 ## Sobre <a name = "sobre"></a>
 
 ### Resumo <a name = "sobre-resumo"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
+Projeto voltado para aprendizado e práticas de programação. Uma API simples para CRUD de livros em um banco de dados destinado ao gerenciamento de inventário uma biblioteca.
 
 ### Como Usar <a name = "sobre-uso"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
@@ -53,6 +54,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 &emsp;&emsp;&emsp;&emsp;<a href="https://www.npmjs.com/package/cors" target="_blank">![Static Badge](https://img.shields.io/badge/v2.8.5-%23ffffff?style=flat&label=cors&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fcors)</a>
 
 ### Metodologias e Design de Projeto <a name = "descricao_tecnica-design"></a>
+Desenvolvimento em RAD (Rapid Application Development). Iterações de projeto:
+    -   1. Construção de funções essenciais, com o processo de CRUD simples;
+    -   2. Implementação de CORS e sanitização;
+    -   3. Implementação de testes de aplicação;
+    -   4. Implementação de autenticação e segurança.
+
+### Testes da Aplicação <a name = "descricao_tecnica-tests"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
 ### Autenticação e Segurança <a name = "descricao_tecnica-auth"></a>
